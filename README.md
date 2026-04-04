@@ -74,22 +74,22 @@ Response to UI
 ```text
 cloud-cost-predictor/
 │
-├── app/
-│   ├── api.py
-│   ├── model.py
-│   ├── utils.py
-│
 ├── model/
+|   |── anomaly.pkl
 │   ├── model.pkl
 │   ├── scaler.pkl
 │   ├── encoder.pkl
 │
-├── data/
+├── datasets/
 │   └── cloud_data.csv
+|   |── create_dataset.py     
 │
 ├── notebooks/
+|   |── isolation.py
+|   |── model_training.py
 │
 ├── app.py
+|── api.py
 ├── requirements.txt
 ├── .gitignore
 ├── README.md
