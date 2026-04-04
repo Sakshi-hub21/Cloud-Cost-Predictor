@@ -198,13 +198,6 @@ POST /anomaly
 
 ---
 
-## 📸 Screenshots
-
-*(Add screenshots of UI here)*
-
----
-
-
 ## 📌 Key Learnings
 
 * Machine Learning lifecycle
