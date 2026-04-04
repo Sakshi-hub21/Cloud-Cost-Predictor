@@ -188,6 +188,9 @@ POST /anomaly
 * ✔ Production-ready project structure
 
 ---
+## Screenshot
+
+<img width="1198" height="880" alt="image" src="https://github.com/user-attachments/assets/d477a9db-2416-4ca3-823a-66047a919206" />
 
 ## 🚀 Future Improvements
 
