@@ -204,11 +204,6 @@ POST /anomaly
 
 ---
 
-## 🎤 Interview Explanation
-
-> This project predicts cloud infrastructure costs using Random Forest and detects anomalies using Isolation Forest. It includes an end-to-end pipeline with preprocessing, model training, API deployment using FastAPI, and a Streamlit UI for user interaction.
-
----
 
 ## 📌 Key Learnings
 
